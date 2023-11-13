@@ -18,8 +18,9 @@ Avant de commencer, assurez-vous que les logiciels suivants sont installés sur 
 
 3.Installer les dépendances du projet
 
-.npm i
-
+```
+npm i
+```
 # Les usages
 Démarre le serveur de développement. Ouvrez http://localhost:3000 dans votre navigateur pour afficher le projet
 .npm start
