@@ -9,12 +9,13 @@ Avant de commencer, assurez-vous que les logiciels suivants sont installés sur 
 
 # Installation
 1.Clonez le dépôt sur votre ordinateur local :
-
-.git clone https://github.com/hasnaerguig1999/gestion-des-categories-React-js
-
+```
+git clone https://github.com/hasnaerguig1999/gestion-des-categories-React-js
+```
 2.Remplacez votre répertoire de travail par le dossier du projet
-
-.cd gestion-des-categories-React-js
+```
+cd gestion-des-categories-React-js
+```
 
 3.Installer les dépendances du projet
 
@@ -23,5 +24,7 @@ npm i
 ```
 # Les usages
 Démarre le serveur de développement. Ouvrez http://localhost:3000 dans votre navigateur pour afficher le projet
-.npm start
+```
+npm start
+```
 
